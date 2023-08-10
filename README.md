@@ -142,3 +142,5 @@ terraform apply -auto-approve -input=false tfplan
 ## Demo do autor
 
 [Vídeo com a demonstração do Hello World](https://youtu.be/tP8png215tE)
+
+,.
