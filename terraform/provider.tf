@@ -11,7 +11,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket         = "tf-terraform-hello-world-state-v1"
+    bucket         = "tf-terraform-hello-world-state-arcanjo"
     key            = "terraform.tfstate"
     dynamodb_table = "tf-terraform-hello-world-state-v1"
     region         = "us-east-1"
